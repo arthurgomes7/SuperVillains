@@ -1,5 +1,5 @@
 {
-  "name": "@arthurgomes7/supervillains",
+  "name": "@arthurgomes3/supervillains-new",
   "version": "1.0.0",
   "description": "Modulo que gera um nome de um Super Vilão, e apresenta a mensagem digitada pelo usuario como se fosse uma fala do Vilão",
   "main": "superVillains.js",
@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/arthurgomes7/SuperVillains#readme",
   "dependencies": {
+    "chalk": "^5.4.1",
     "supervillains": "^4.0.0"
-  }
+  },
+  "devDependencies": {}
 }
